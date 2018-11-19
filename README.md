@@ -8,5 +8,6 @@ STEPS TO RUN:
 5. out.dat can be converted to out.wav using command sox out.dat out.wav
 
 
-#For listening to sound import .wav files(simranjeet.wav and out.wav) in audacity and play the sound.You can see the difference
+#For listening to sound import .wav files(simranjeet.wav and out.wav) in audacity and play the sound.You can see the difference between two sounds.
 #NOTE: simranjeet.wav is input and out.wav is the output produced after distortion.
+#waveforms can be seen in the console itself.
