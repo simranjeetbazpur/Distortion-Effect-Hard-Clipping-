@@ -1,4 +1,4 @@
-# Distortion-Effect-Hard-Clipping-
+# Distortion-Effect-Hard-Clipping
 #Using Python 3.6
 STEPS TO RUN(APPLYING DISTORTION TO FORMATTED INPUT PCM) 
 1. simranjeet.wav file[INPUT FILE] is converted to simranjeet.dat using SoX command i.e sox simranjeet.wav simranjeet.dat[You can skip this step as I have uploaded the simranjeet.dat file as well].
